@@ -1,12 +1,71 @@
-- 👋 Hi, I’m @anishsingh234
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Anish Kumar Singh</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
 
-<!---
-anishsingh234/anishsingh234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👨‍💻 About Me  
+💡 Passionate about building **scalable full-stack applications** and **AI-powered solutions**  
+📚 Currently learning **Advanced GraphQL, ConvexDB, and AI Application Development**  
+🤝 Looking to collaborate on **AI/ML Projects, SaaS Platforms, and Open Source Tools**  
+🎯 Goal: Turn ideas into impactful digital products  
+⚡ Fun Fact: I built an **AI Trip Planner** that creates day-by-day itineraries using Mistral AI – vacations as code! 😄  
+
+---
+
+### 🛠 Tech Stack  
+
+#### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+#### 🖼 Frameworks & Libraries  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)  
+
+#### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+
+---
+
+### 🚀 Featured Projects  
+
+#### 🏪 [DarkStore IMS](https://github.com/anishsingh234/DarkStoreIMS)  
+Full-stack inventory management system with **role-based access**, **interactive dashboards**, and **secure APIs**.  
+Tech: React, Next.js, Prisma, MongoDB, Recharts, GraphQL  
+
+#### 🧳 [Trip Bandhu – AI Trip Planner](https://github.com/anishsingh234/TripBandhu)  
+AI-powered trip planning platform with **real-time data sync** and **personalized itineraries** using Mistral AI.  
+Tech: Next.js, ConvexDB, Clerk, shadcn/ui  
+
+#### 💼 [Jobsy](https://github.com/anishsingh234/jobSy)  
+Job portal for companies and applicants with **relational data models** and **role-based access control**.  
+Tech: Next.js, React, Tailwind CSS, MongoDB, Prisma  
+
+---
+
+### 📜 Certifications  
+- Career Essentials in Generative AI — *Microsoft & LinkedIn Learning*  
+- SQL (Basic) — *HackerRank*  
+- CSS (Basic) — *HackerRank*  
+
+---
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-ai/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishsingh234)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishsingh210204@gmail.com)  
+
+---
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=anishsingh234&show_icons=true&theme=tokyonight" alt="GitHub stats" />  
+</p>
