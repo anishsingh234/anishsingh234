@@ -5,10 +5,22 @@
 
 ### 👨‍💻 About Me  
 💡 Passionate about building **scalable full-stack applications** and **AI-powered solutions**  
-📚 Currently learning **Advanced GraphQL, ConvexDB, and AI Application Development**  
-🤝 Looking to collaborate on **AI/ML Projects, SaaS Platforms, and Open Source Tools**  
-🎯 Goal: Turn ideas into impactful digital products  
-⚡ Fun Fact: I built an **AI Trip Planner** that creates day-by-day itineraries using Mistral AI – vacations as code! 😄  
+📚 Currently exploring **Advanced GraphQL, ConvexDB, and AI Application Development**  
+🤝 Open to collaborating on **AI/ML Projects, SaaS Platforms, and Open Source Tools**  
+🎯 Goal: Transform ideas into impactful digital products  
+⚡ Fun Fact: I once built an **AI Trip Planner** that generates personalized day-by-day itineraries — vacations as code! 😄  
+
+---
+
+### 🏫 Education & Relevant Coursework  
+🎓 **B.Tech. in Computer Science (AI & ML Specialization)** — Uttarakhand Technical University (2022 – 2026)  
+
+📘 **Relevant Coursework**  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Database Management Systems  
+- Artificial Intelligence & Machine Learning  
+- Deep Learning & Natural Language Processing  
 
 ---
 
@@ -32,14 +44,14 @@
 #### 🔧 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
 
 ---
 
 ### 🚀 Featured Projects  
 
 #### 🏪 [DarkStore IMS](https://github.com/anishsingh234/DarkStoreIMS)  
-Full-stack inventory management system with **role-based access**, **interactive dashboards**, and **secure APIs**.  
+Full-stack inventory management system with **role-based access**, **real-time dashboards**, and **secure APIs**.  
 Tech: React, Next.js, Prisma, MongoDB, Recharts, GraphQL  
 
 #### 🧳 [Trip Bandhu – AI Trip Planner](https://github.com/anishsingh234/TripBandhu)  
