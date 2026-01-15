@@ -116,7 +116,6 @@
 <div>
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clerk/clerk-original.svg" height="40" alt="clerk" />
 </div>
 
 </div>
@@ -161,7 +160,7 @@
 </div>
 
 ---
-
+<!---
 ## 💼 Professional Experience
 
 <div align="center">
@@ -176,7 +175,7 @@
 ✨ Collaborating with team members to deliver scalable and maintainable solutions
 
 </div>
-
+-->
 ---
 
 ## 🎓 Education
