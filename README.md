@@ -1,72 +1,147 @@
+<h1 align="center">Hi 👋, I'm Anish Kumar Singh</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI/ML Engineer | Turning Ideas into Intelligent Solutions</h3>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;React+Native+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+###
+
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlxeGh5ZDdsZGN4MjgzOHNia3p0cWJ1MndrZmo2Y3h1M3dzc3I1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NLsSFa1Ir84bvbE8EL/giphy.gif" alt="coding gif" />
+
+###
+
+<div align="left">
+  
+💡 Passionate about building **scalable applications** and **AI-powered solutions**  
+📚 Currently exploring **React Native, GraphQL & AI Integration**  
+🤝 Open to collaborating on **AI/ML Projects & Open Source**  
+🎯 Goal: Transform ideas into impactful digital products  
+⚡ Fun Fact: I built **AI-powered apps** including Trip Planner and Diet Planner!  
+📱 Intern @ **Exponent Solutions** | Building the future, one line at a time
+
+</div>
+
+###
+
+<br clear="both">
+
+---
+
+## 🌐 Connect with Me:
+
+<div align="center">
+  <a href="https://mystica-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/anish-ai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+  </a>
+  <a href="mailto:anishsingh210204@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+  <a href="https://www.instagram.com/aaannniiishhh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
+  </a>
+  <a href="https://github.com/anishsingh234" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishsingh234&color=00C7B7&style=for-the-badge" alt="profile views" />
+</div>
+
+---
+
+## 💻 Tech Stack:
+
 <div align="center">
 
-# 👋 Hey there, I'm Anish Kumar Singh
+### Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
+</div>
 
-### 🚀 Full-Stack Developer | AI/ML Engineer | Building the Future, One Line at a Time
+### Frontend & Mobile
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/expo/000020" height="40" alt="expo" />
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mystica--dev.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://mystica-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-ai/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishsingh210204@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishsingh234)
+### Backend & Database
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anishsingh234&color=00C7B7&style=flat-square)
+### AI/ML & Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android studio" />
+</div>
+
+### Cloud & Deployment
+<div>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clerk/clerk-original.svg" height="40" alt="clerk" />
+</div>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 📊 GitHub Stats:
 
-```typescript
-const anish = {
-    location: "Moradabad, Uttar Pradesh, India",
-    education: "B.Tech in CS (AI & ML) @ Uttarakhand Technical University",
-    currentRole: "Full Stack Developer Intern @ Exponent Solutions",
-    passion: ["Building scalable applications", "AI-powered solutions", "Open source"],
-    currentlyLearning: ["Advanced GraphQL", "React Native", "System Design"],
-    funFact: "I turn coffee into code and ideas into intelligent applications ☕️💡"
-};
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishsingh234&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&border_radius=10" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishsingh234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&border_radius=10" height="170" alt="languages graph" />
+</div>
 
-🔭 Currently working on full-stack applications with Next.js and React Native  
-🌱 Exploring AI integration in mobile applications and real-time systems  
-👯 Open to collaborating on AI/ML projects, SaaS platforms, and innovative open-source tools  
-💬 Ask me about React, Next.js, AI integration, or full-stack development  
-⚡ Building solutions that make a difference!
+###
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anishsingh234&theme=radical&hide_border=false&border_radius=10" alt="streak stats" />
+</div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![ConvexDB](https://img.shields.io/badge/ConvexDB-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white)
-
-### AI/ML & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=anishsingh234&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="trophies" />
 </div>
 
 ---
@@ -75,112 +150,100 @@ const anish = {
 
 <div align="center">
 
-### 🏥 [HealSync](https://github.com/anishsingh234/HealSync) - Doctor Appointment Platform
-**Next.js • Prisma • MongoDB • Clerk • Tailwind CSS**
-
-Full-featured healthcare platform with appointment booking, video consultations, and admin management. Features doctor verification system, patient management, and role-based access control.
-
----
-
-### 🧳 [Trip Bandhu](https://github.com/anishsingh234/TripBandhu) - AI Trip Planner
-**Next.js • ConvexDB • Gemini AI • shadcn/ui**
-
-AI-powered travel companion that generates personalized day-by-day itineraries. Real-time data sync and intelligent recommendations for your perfect vacation!
-
----
-
-### 🍎 [NutriMate](https://github.com/anishsingh234/NutriMate) - AI Diet Planner
-**React Native • Expo • TypeScript • Gemini AI**
-
-Cross-platform mobile app for personalized meal planning. Track nutrition in real-time with AI-generated meal suggestions tailored to your health goals.
-
----
-
-### 🏪 [DarkStore IMS](https://github.com/anishsingh234/DarkStoreIMS) - Inventory Management
-**React • Next.js • Prisma • GraphQL • MongoDB**
-
-Enterprise-grade inventory management system with role-based access, real-time dashboards, and secure APIs for efficient business operations.
-
----
-
-### 💼 [Jobsy](https://github.com/anishsingh234/jobSy) - Job Portal
-**Next.js • React • MongoDB • Prisma**
-
-Modern job portal connecting companies and applicants with relational data models and role-based access control.
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| 🏥 **[HealSync](https://github.com/anishsingh234/HealSync)** | Doctor appointment platform with video consultations & admin management | Next.js, Prisma, MongoDB, Clerk, Tailwind CSS |
+| 🧳 **[Trip Bandhu](https://github.com/anishsingh234/TripBandhu)** | AI-powered trip planner with personalized itineraries | Next.js, ConvexDB, Gemini AI, shadcn/ui |
+| 🍎 **[NutriMate](https://github.com/anishsingh234/NutriMate)** | Cross-platform AI diet planning mobile app | React Native, Expo, TypeScript, Gemini AI |
+| 🏪 **[DarkStore IMS](https://github.com/anishsingh234/DarkStoreIMS)** | Enterprise inventory management system | React, GraphQL, Prisma, MongoDB |
+| 💼 **[Jobsy](https://github.com/anishsingh234/jobSy)** | Job portal connecting companies and applicants | Next.js, Prisma, MongoDB |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anishsingh234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishsingh234&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishsingh234&theme=tokyonight" alt="GitHub Streak"/>
+### 🎯 Full Stack Developer Intern @ Exponent Solutions
+**November 2025 - Present**
+
+✨ Developing full-stack web & mobile applications using Next.js and React Native  
+✨ Building responsive frontend interfaces and robust backend services  
+✨ Writing comprehensive unit and integration tests for code quality  
+✨ Designing optimized database schemas and implementing efficient data querying  
+✨ Collaborating with team members to deliver scalable and maintainable solutions
+
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🎓 Education
+
+<div align="center">
+
+**🎓 B.Tech in Computer Science - AI and Machine Learning**  
+Uttarakhand Technical University | August 2022 - June 2026
+
+**📚 Relevant Coursework:**  
+Data Structures • Object-Oriented Programming • Machine Learning • Database Management  
+Artificial Intelligence • Deep Learning • Natural Language Processing
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
 
 🎓 **Career Essentials in Generative AI** - Microsoft & LinkedIn Learning  
 🎓 **SQL (Basic)** - HackerRank  
 🎓 **Java Certificate** - HackerRank  
 🎓 **CSS (Basic)** - HackerRank  
 
----
-
-## 💼 Professional Experience
-
-**Full Stack Developer Intern** @ Exponent Solutions *(Nov 2025 - Present)*
-- Developing full-stack web and mobile applications using Next.js and React Native
-- Building responsive frontend interfaces and robust backend services
-- Implementing comprehensive testing for code quality and reliability
-- Designing optimized database schemas and efficient data querying
+</div>
 
 ---
 
-## 🎓 Education
-
-**B.Tech in Computer Science - AI & Machine Learning**  
-Uttarakhand Technical University (2022 - 2026)
-
-**Relevant Coursework:** Data Structures • OOP • Machine Learning • AI • Deep Learning • NLP • DBMS
-
----
-
-## 🌐 Let's Connect!
+## ✍️ Random Dev Quote
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
+</div>
 
-I'm always excited to collaborate on innovative projects and discuss new ideas!
+---
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-00C7B7?style=for-the-badge)](https://mystica-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anish-ai/)
-[![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail)](mailto:anishsingh210204@gmail.com)
+## 🔝 Top Contributed Repositories
 
-**📱 Phone:** +91 7061186007
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=anishsingh234&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="top repos" />
+</div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anishsingh234/anishsingh234/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ### ⚡ Fun Fact
-Did you know? I once built an AI Trip Planner that generates personalized itineraries — because planning vacations should be as easy as writing code! 🗺️✈️
+I transform coffee into code and ideas into AI-powered applications! ☕️💻✨
 
 ---
 
-![Snake animation](https://github.com/anishsingh234/anishsingh234/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=50" width="100%" />
 
-**Made with ❤️ and lots of ☕️**
+**Made with ❤️ by Anish Kumar Singh**
+
+[![](https://visitcount.itsvg.in/api?id=anishsingh234&icon=6&color=6)](https://visitcount.itsvg.in)
 
 </div>
