@@ -1,479 +1,209 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anish Kumar Singh - Full Stack Developer</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# 👋 Hi, I'm Anish Kumar Singh
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #2c3e50;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            padding: 20px;
-        }
+<div align="center">
 
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            background: white;
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-            border-radius: 12px;
-            overflow: hidden;
-        }
+### 🚀 Full-Stack Developer | AI/ML Enthusiast | Problem Solver
 
-        .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 60px 40px;
-            text-align: center;
-        }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-ai/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishsingh234)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishsingh210204@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=web&logoColor=white)](#)
 
-        .header h1 {
-            font-size: 2.8em;
-            margin-bottom: 8px;
-            font-weight: 700;
-            letter-spacing: -0.5px;
-        }
+---
 
-        .header .title {
-            font-size: 1.2em;
-            font-weight: 300;
-            opacity: 0.95;
-            margin-bottom: 15px;
-        }
+📱 **7061186007** | 💻 **anishsingh210204@gmail.com**
 
-        .header .contact {
-            display: flex;
-            justify-content: center;
-            gap: 25px;
-            flex-wrap: wrap;
-            font-size: 0.95em;
-        }
+</div>
 
-        .contact-item {
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
+---
 
-        .contact-item a {
-            color: white;
-            text-decoration: none;
-            transition: opacity 0.3s;
-        }
+## 🎯 About Me
 
-        .contact-item a:hover {
-            opacity: 0.8;
-        }
+I'm a passionate full-stack developer and AI/ML enthusiast focused on building **scalable, production-ready applications** that solve real-world problems. I specialize in crafting end-to-end solutions using modern web technologies and artificial intelligence.
 
-        .content {
-            padding: 50px 40px;
-        }
+- 💡 **Building:** Scalable full-stack applications with AI-powered features
+- 📚 **Learning:** Advanced GraphQL, ConvexDB, and cutting-edge AI technologies
+- 🤝 **Collaborating on:** AI/ML Projects, SaaS Platforms, and Open Source Tools
+- 🎯 **Goal:** Transform innovative ideas into impactful digital products
+- ⚡ **Fun Fact:** Built an AI Trip Planner that generates personalized itineraries—vacations as code! 🏖️
 
-        .section {
-            margin-bottom: 40px;
-        }
+---
 
-        .section-title {
-            font-size: 1.4em;
-            font-weight: 700;
-            color: #667eea;
-            margin-bottom: 20px;
-            padding-bottom: 10px;
-            border-bottom: 3px solid #667eea;
-            display: inline-block;
-        }
+## 🎓 Education
 
-        .education-item {
-            margin-bottom: 25px;
-        }
+**B.Tech. in Computer Science – AI and Machine Learning Specialization**  
+*Uttarakhand Technical University, Dehradun* | Aug 2022 – Jun 2026
 
-        .degree {
-            font-size: 1.1em;
-            font-weight: 700;
-            color: #2c3e50;
-            margin-bottom: 5px;
-        }
+### 📚 Relevant Coursework
+Data Structures & Algorithms • Object-Oriented Programming • Database Management Systems • Machine Learning • Artificial Intelligence • Deep Learning • Natural Language Processing
 
-        .university {
-            color: #667eea;
-            font-weight: 600;
-            margin-bottom: 8px;
-        }
+---
 
-        .timeline {
-            color: #7f8c8d;
-            font-size: 0.95em;
-            margin-bottom: 10px;
-        }
+## 💼 Professional Experience
 
-        .coursework {
-            color: #555;
-            font-size: 0.95em;
-            line-height: 1.7;
-        }
+### Full Stack Developer Intern
+**Exponent Solutions** | Nov 2025 – Present
 
-        .experience-item {
-            margin-bottom: 30px;
-            background: #f8f9fa;
-            padding: 20px;
-            border-radius: 8px;
-            border-left: 4px solid #667eea;
-        }
+- 🔨 Developing full-stack web and mobile applications using **Next.js** and **React Native** with modern development practices
+- 🎨 Building responsive frontend interfaces and robust backend services with optimized database architecture
+- ✅ Writing comprehensive unit and integration tests ensuring high code quality and reliability
+- 🗄️ Designing optimized database schemas and implementing efficient data querying across multiple databases
+- 👥 Collaborating with cross-functional teams to deliver scalable and maintainable solutions
 
-        .job-title {
-            font-size: 1.15em;
-            font-weight: 700;
-            color: #2c3e50;
-            margin-bottom: 5px;
-        }
+---
 
-        .company {
-            color: #667eea;
-            font-weight: 600;
-            margin-bottom: 8px;
-        }
+## 🚀 Featured Projects
 
-        .job-description {
-            list-style: none;
-            margin-top: 12px;
-        }
+### 🍎 NutriMate – AI Diet Planner
+**React Native • Expo • TypeScript • Gemini AI • React Context** | July 2025
 
-        .job-description li {
-            padding: 6px 0;
-            padding-left: 20px;
-            position: relative;
-            color: #555;
-            font-size: 0.95em;
-        }
+Cross-platform AI-powered mobile app that generates personalized meal plans based on health goals.
 
-        .job-description li:before {
-            content: "▸";
-            position: absolute;
-            left: 0;
-            color: #667eea;
-            font-weight: bold;
-        }
+- 📱 Developed cross-platform diet planning app with AI-powered meal recommendations
+- 📊 Implemented real-time nutritional tracking system (calories, protein, carbs) with interactive visualizations
+- 🤖 Integrated Google Gemini AI API with intelligent fallback logic for uninterrupted UX
+- 🔒 Ensured secure data handling with Expo Secure Store and optimized animations with React Native Reanimated
 
-        .project-item {
-            margin-bottom: 28px;
-            padding: 20px;
-            background: #f8f9fa;
-            border-radius: 8px;
-            border-left: 4px solid #764ba2;
-        }
+**[View Project](https://github.com/anishsingh234)** • **[Live Demo](#)**
 
-        .project-title {
-            font-size: 1.1em;
-            font-weight: 700;
-            color: #2c3e50;
-            margin-bottom: 8px;
-        }
+---
 
-        .project-tech {
-            color: #764ba2;
-            font-weight: 600;
-            font-size: 0.9em;
-            margin-bottom: 10px;
-        }
+### ✈️ Trip Bandhu – AI Trip Planner
+**Next.js • ConvexDB • Clerk • shadcn/ui • Gemini AI** | July 2025
 
-        .project-description {
-            color: #555;
-            font-size: 0.95em;
-            line-height: 1.7;
-            list-style: none;
-        }
+AI-powered platform that generates personalized, day-by-day travel itineraries with real-time synchronization.
 
-        .project-description li {
-            padding: 5px 0;
-            padding-left: 20px;
-            position: relative;
-        }
+- 🗺️ Built intelligent trip planning platform for creating custom travel itineraries
+- ⚡ Integrated ConvexDB for real-time data sync and Clerk for secure authentication
+- 🤖 Implemented Gemini AI 2.0 flash for generating contextual day-by-day trip recommendations
+- 🎨 Designed modern, responsive UI using React, shadcn/ui, and Acernity UI components
 
-        .project-description li:before {
-            content: "→";
-            position: absolute;
-            left: 0;
-            color: #764ba2;
-            font-weight: bold;
-        }
+**[View Project](https://github.com/anishsingh234/TripBandhu)** • **[Live Demo](#)**
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
+---
 
-        .skill-category {
-            background: #f8f9fa;
-            padding: 18px;
-            border-radius: 8px;
-            border-top: 3px solid #667eea;
-        }
+### 🏥 HealSync – Doctor Appointment Platform
+**Next.js • Prisma ORM • MongoDB • Clerk • Tailwind CSS** | Sept 2025
 
-        .skill-category h4 {
-            color: #667eea;
-            margin-bottom: 12px;
-            font-size: 0.95em;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
+Comprehensive healthcare platform with role-based access control for doctors, patients, and admins.
 
-        .skill-tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-        }
+- 📅 Built full-featured booking system with appointment management and cancellation functionality
+- 👨‍⚕️ Developed doctor dashboard for appointment handling, video call integration, and patient notes
+- 🛡️ Implemented admin panel with doctor verification, suspension, and activity management
+- 🌐 Deployed production-ready application on Vercel with optimized performance
 
-        .skill-tag {
-            background: white;
-            color: #667eea;
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 0.85em;
-            border: 1px solid #667eea;
-            font-weight: 500;
-            transition: all 0.3s;
-        }
+**[View Project](https://github.com/anishsingh234)** • **[Live Demo](#)**
 
-        .skill-tag:hover {
-            background: #667eea;
-            color: white;
-        }
+---
 
-        .cert-item {
-            padding: 12px 0;
-            color: #555;
-            font-size: 0.95em;
-            padding-left: 20px;
-            position: relative;
-        }
+### 📦 DarkStore IMS – Inventory Management System
+**React • Next.js • Prisma • MongoDB • GraphQL • Recharts** 
 
-        .cert-item:before {
-            content: "✓";
-            position: absolute;
-            left: 0;
-            color: #667eea;
-            font-weight: bold;
-        }
+Full-stack inventory management system with real-time dashboards and role-based access control.
 
-        @media (max-width: 768px) {
-            .header {
-                padding: 40px 25px;
-            }
+- 🎯 Built comprehensive inventory system with role-based user access levels
+- 📈 Created real-time dashboards with interactive data visualizations
+- 🔐 Implemented secure GraphQL APIs with authentication
+- 📊 Designed analytics dashboard with Recharts for inventory insights
 
-            .header h1 {
-                font-size: 2em;
-            }
+**[View Project](https://github.com/anishsingh234/DarkStoreIMS)**
 
-            .content {
-                padding: 30px 25px;
-            }
+---
 
-            .skills-grid {
-                grid-template-columns: 1fr;
-            }
+## 🛠️ Technical Skills
 
-            .header .contact {
-                gap: 15px;
-            }
-        }
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-        @media print {
-            body {
-                background: white;
-                padding: 0;
-            }
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-            .container {
-                box-shadow: none;
-                border-radius: 0;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- Header -->
-        <div class="header">
-            <h1>Anish Kumar Singh</h1>
-            <p class="title">Full Stack Developer | AI/ML Enthusiast | Problem Solver</p>
-            <div class="contact">
-                <div class="contact-item">
-                    <span>📧</span>
-                    <a href="mailto:anishsingh210204@gmail.com">anishsingh210204@gmail.com</a>
-                </div>
-                <div class="contact-item">
-                    <span>📱</span>
-                    <span>7061186007</span>
-                </div>
-                <div class="contact-item">
-                    <span>🔗</span>
-                    <a href="https://linkedin.com/in/anish-ai/">LinkedIn</a>
-                </div>
-                <div class="contact-item">
-                    <span>💻</span>
-                    <a href="https://github.com/anishsingh234">GitHub</a>
-                </div>
-            </div>
-        </div>
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![ConvexDB](https://img.shields.io/badge/ConvexDB-6B21A8?style=flat-square&logo=convex&logoColor=white)
 
-        <!-- Content -->
-        <div class="content">
-            <!-- Education -->
-            <section class="section">
-                <h2 class="section-title">🎓 Education</h2>
-                <div class="education-item">
-                    <div class="degree">B.Tech. in Computer Science</div>
-                    <div class="university">Uttarakhand Technical University, Dehradun</div>
-                    <div class="timeline">AI and Machine Learning Specialization | Aug 2022 – Jun 2026</div>
-                    <div class="coursework">
-                        <strong>Relevant Coursework:</strong> Data Structures & Algorithms, Object-Oriented Programming, Machine Learning, Database Management Systems, Artificial Intelligence, Deep Learning, Natural Language Processing
-                    </div>
-                </div>
-            </section>
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-            <!-- Experience -->
-            <section class="section">
-                <h2 class="section-title">💼 Professional Experience</h2>
-                <div class="experience-item">
-                    <div class="job-title">Full Stack Developer Intern</div>
-                    <div class="company">Exponent Solutions | Nov 2025 – Present</div>
-                    <ul class="job-description">
-                        <li>Developing full-stack web and mobile applications using Next.js and React Native with modern development practices</li>
-                        <li>Building responsive frontend interfaces and robust backend services with efficient database architecture</li>
-                        <li>Writing comprehensive unit and integration tests ensuring code quality and reliability</li>
-                        <li>Designing optimized database schemas and implementing efficient data querying across multiple databases</li>
-                        <li>Collaborating with team members to deliver scalable and maintainable solutions</li>
-                    </ul>
-                </div>
-            </section>
+### 🤖 AI & ML Specializations
+- **Machine Learning** • **Artificial Intelligence** • **Deep Learning** • **Natural Language Processing** • **AI Model Integration**
 
-            <!-- Projects -->
-            <section class="section">
-                <h2 class="section-title">🚀 Featured Projects</h2>
-                
-                <div class="project-item">
-                    <div class="project-title">NutriMate – AI Diet Planner</div>
-                    <div class="project-tech">React Native | Expo | TypeScript | Gemini AI | React Context</div>
-                    <ul class="project-description">
-                        <li>Developed cross-platform AI-powered diet planning mobile app for personalized meal recommendations</li>
-                        <li>Implemented real-time nutritional tracking system for calories, protein, and carbohydrates</li>
-                        <li>Integrated Google Gemini AI API with fallback logic ensuring uninterrupted user experience</li>
-                        <li>Ensured secure data handling using Expo Secure Store and optimized UI with React Native Reanimated</li>
-                    </ul>
-                </div>
+---
 
-                <div class="project-item">
-                    <div class="project-title">Trip Bandhu – AI Trip Planner</div>
-                    <div class="project-tech">Next.js | ConvexDB | Clerk | shadcn/ui | Gemini AI</div>
-                    <ul class="project-description">
-                        <li>Built AI-powered platform to create personalized trip timelines and manage travel itineraries</li>
-                        <li>Integrated ConvexDB for real-time data storage and Clerk authentication for secure access</li>
-                        <li>Implemented AI itinerary generation using Gemini AI 2.0 for day-by-day trip recommendations</li>
-                        <li>Designed responsive interface using React, shadcn/ui, and Acernity UI components</li>
-                    </ul>
-                </div>
+## 📜 Certifications
 
-                <div class="project-item">
-                    <div class="project-title">HealSync – Doctor Appointment Platform</div>
-                    <div class="project-tech">Next.js | Prisma ORM | MongoDB | Clerk | Tailwind CSS</div>
-                    <ul class="project-description">
-                        <li>Developed full-featured platform with booking, cancellation, and consultation management</li>
-                        <li>Built comprehensive doctor dashboard with appointment handling and video call integration</li>
-                        <li>Implemented admin panel for doctor verification and role-based access control</li>
-                        <li>Deployed production-ready application on Vercel with optimized performance</li>
-                    </ul>
-                </div>
+- ✅ **Career Essentials in Generative AI** — Microsoft & LinkedIn Learning
+  - Covered fundamentals of AI, generative models, and responsible AI practices
+  
+- ✅ **SQL (Basic)** — HackerRank
+  - Validated database queries, table relationships, and SQL aggregations
+  
+- ✅ **Java Certificate** — HackerRank
+  - Demonstrated proficiency in Java programming and OOP concepts
 
-                <div class="project-item">
-                    <div class="project-title">DarkStore IMS – Inventory Management System</div>
-                    <div class="project-tech">React | Next.js | Prisma | MongoDB | GraphQL | Recharts</div>
-                    <ul class="project-description">
-                        <li>Built full-stack inventory system with role-based access and real-time dashboards</li>
-                        <li>Implemented secure APIs and comprehensive data visualization</li>
-                    </ul>
-                </div>
-            </section>
+---
 
-            <!-- Technical Skills -->
-            <section class="section">
-                <h2 class="section-title">🛠 Technical Skills</h2>
-                <div class="skills-grid">
-                    <div class="skill-category">
-                        <h4>Languages</h4>
-                        <div class="skill-tags">
-                            <span class="skill-tag">Python</span>
-                            <span class="skill-tag">JavaScript</span>
-                            <span class="skill-tag">TypeScript</span>
-                            <span class="skill-tag">C++</span>
-                            <span class="skill-tag">SQL</span>
-                        </div>
-                    </div>
-                    <div class="skill-category">
-                        <h4>Frontend</h4>
-                        <div class="skill-tags">
-                            <span class="skill-tag">React</span>
-                            <span class="skill-tag">Next.js</span>
-                            <span class="skill-tag">React Native</span>
-                            <span class="skill-tag">Tailwind CSS</span>
-                            <span class="skill-tag">shadcn/ui</span>
-                        </div>
-                    </div>
-                    <div class="skill-category">
-                        <h4>Backend</h4>
-                        <div class="skill-tags">
-                            <span class="skill-tag">Node.js</span>
-                            <span class="skill-tag">Express.js</span>
-                            <span class="skill-tag">GraphQL</span>
-                            <span class="skill-tag">Prisma ORM</span>
-                        </div>
-                    </div>
-                    <div class="skill-category">
-                        <h4>Databases</h4>
-                        <div class="skill-tags">
-                            <span class="skill-tag">MongoDB</span>
-                            <span class="skill-tag">MySQL</span>
-                            <span class="skill-tag">ConvexDB</span>
-                        </div>
-                    </div>
-                    <div class="skill-category">
-                        <h4>Tools & Platforms</h4>
-                        <div class="skill-tags">
-                            <span class="skill-tag">Git</span>
-                            <span class="skill-tag">VS Code</span>
-                            <span class="skill-tag">Clerk</span>
-                            <span class="skill-tag">Vercel</span>
-                        </div>
-                    </div>
-                    <div class="skill-category">
-                        <h4>Specializations</h4>
-                        <div class="skill-tags">
-                            <span class="skill-tag">Machine Learning</span>
-                            <span class="skill-tag">AI</span>
-                            <span class="skill-tag">NLP</span>
-                        </div>
-                    </div>
-                </div>
-            </section>
+## 📊 GitHub Statistics
 
-            <!-- Certifications -->
-            <section class="section">
-                <h2 class="section-title">📜 Certifications</h2>
-                <div class="cert-item">Career Essentials in Generative AI — Microsoft & LinkedIn Learning</div>
-                <div class="cert-item">SQL (Basic) — HackerRank</div>
-                <div class="cert-item">Java Certificate — HackerRank</div>
-            </section>
-        </div>
-    </div>
-</body>
-</html>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishsingh234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishsingh234&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishsingh234&theme=tokyonight&hide_border=true)](https://github.com/anishsingh234)
+
+</div>
+
+---
+
+## 🌟 What I'm Currently Working On
+
+- 🔍 Exploring advanced **GraphQL** patterns for scalable APIs
+- 🎯 Building AI applications with **Gemini AI** and **LangChain**
+- 📱 Mastering **React Native** and cross-platform mobile development
+- 🗄️ Diving deeper into **ConvexDB** for real-time backend solutions
+- 🚀 Contributing to open-source projects
+
+---
+
+## 💬 Let's Connect!
+
+I'm always interested in collaborating on exciting projects, sharing knowledge, and connecting with fellow developers. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-ai/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishsingh234)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishsingh210204@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, consider giving my projects a star! ⭐
+
+**Made with ❤️ by Anish Kumar Singh**
+
+</div>
