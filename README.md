@@ -215,9 +215,8 @@ Artificial Intelligence • Deep Learning • Natural Language Processing
 ---
 
 ## 🔝 Top Contributed Repositories
-
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anishsingh234&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="top repos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anishsingh234&show_icons=true&theme=radical" />
 </div>
 
 ---
