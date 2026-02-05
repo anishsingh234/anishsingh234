@@ -125,34 +125,12 @@ const anish = {
 
 <!-- Education Section -->
 <div align="center">
-<h2>🎓 Education & Certifications</h2>
+<h2>🎓 Education</h2>
 
 <br />
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎓 Education
-**B.Tech in Computer Science**  
-*AI and Machine Learning*  
-  
-Uttarakhand Technical University  
-📅 August 2022 - June 2026
-
-</td>
-<td align="center" width="50%">
-
-### 🏅 Certifications
-  
-☕ **Java Programming** - HackerRank  
-🤖 **Generative AI** - Microsoft & LinkedIn  
-🗄️ **SQL (Basic)** - HackerRank  
-🎨 **CSS (Basic)** - HackerRank
-
-</td>
-</tr>
-</table>
+**B.Tech in Computer Science — AI and Machine Learning**  
+Uttarakhand Technical University | 📅 Aug 2022 - Jun 2026
 
 </div>
 
