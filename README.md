@@ -16,7 +16,7 @@
 
 ---
 
-<!-- About Section with Gradient Background -->
+<!-- About Section -->
 <div align="center">
 <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -32,13 +32,13 @@
 const anish = {
     pronouns: "He" | "Him",
     role: "Full-Stack Developer & AI/ML Engineer",
-    location: "India 🇮🇳",
+    location: "Dehradun, India 🇮🇳",
     currentFocus: [
-        "React Native",
-        "GraphQL",
-        "AI Integration"
+        "LLMs & RAG Systems",
+        "AI Agents & Workflows",
+        "React Native & Next.js"
     ],
-    funFact: "I built AI-powered Trip & Diet Planners!"
+    funFact: "I build AI agents that research & reason!"
 };
 ```
 
@@ -87,23 +87,34 @@ const anish = {
 <!-- Languages Section -->
 <h3>💻 Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css" alt="Languages" />
 </p>
 
 <!-- Frontend Section -->
 <h3>🎨 Frontend & Mobile</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,expo" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,expo" alt="Frontend" />
 </p>
 
 <!-- Backend Section -->
 <h3>⚙️ Backend & Database</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,prisma,mysql" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,mongodb,prisma,mysql" alt="Backend" />
+</p>
+
+<!-- AI/ML Section -->
+<h3>🤖 AI/ML & LLMs</h3>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/RAG-667eea?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Stable_Diffusion-FF6F00?style=for-the-badge" alt="Stable Diffusion"/>
 </p>
 
 <!-- Tools Section -->
-<h3>🛠️ Tools & Platforms</h3>
+<h3>�️ Tools & Platforms</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,androidstudio" alt="Tools" />
 </p>
@@ -112,86 +123,9 @@ const anish = {
 
 ---
 
-<!-- Featured Projects Section -->
-<div align="center">
-<h2>� Featured Projects</h2>
-
-<br />
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🏥 [HealSync](https://github.com/anishsingh234/HealSync)
-**Doctor Appointment Platform**
-
-Video consultations & admin management
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 🧳 [Trip Bandhu](https://github.com/anishsingh234/TripBandhu)
-**AI Trip Planner**
-
-Personalized itineraries with Gemini AI
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Convex](https://img.shields.io/badge/Convex-FF6B6B?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🍎 [NutriMate](https://github.com/anishsingh234/NutriMate)
-**AI Diet Planning App**
-
-Cross-platform mobile experience
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 🏪 [DarkStore IMS](https://github.com/anishsingh234/DarkStoreIMS)
-**Inventory Management System**
-
-Enterprise-grade solution
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-### 💼 [Jobsy](https://github.com/anishsingh234/jobSy)
-**Job Portal** — Connecting companies and applicants seamlessly
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- Education Section -->
 <div align="center">
-<h2>� Education & Certifications</h2>
+<h2>🎓 Education & Certifications</h2>
 
 <br />
 
@@ -211,10 +145,10 @@ Uttarakhand Technical University
 
 ### 🏅 Certifications
   
-�️ **Generative AI** - Microsoft & LinkedIn  
-�️ **SQL (Basic)** - HackerRank  
-�️ **Java Certificate** - HackerRank  
-�️ **CSS (Basic)** - HackerRank
+☕ **Java Programming** - HackerRank  
+🤖 **Generative AI** - Microsoft & LinkedIn  
+🗄️ **SQL (Basic)** - HackerRank  
+🎨 **CSS (Basic)** - HackerRank
 
 </td>
 </tr>
