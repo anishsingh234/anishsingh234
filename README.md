@@ -106,13 +106,13 @@ const anish = {
 <h3>🤖 AI/ML & LLMs</h3>
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
   <img src="https://img.shields.io/badge/RAG-667eea?style=for-the-badge" alt="RAG"/>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
   <img src="https://img.shields.io/badge/Stable_Diffusion-FF6F00?style=for-the-badge" alt="Stable Diffusion"/>
 </p>
-
 <!-- Tools Section -->
 <h3>�️ Tools & Platforms</h3>
 <p>
